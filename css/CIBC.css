@@ -1,0 +1,28 @@
+body {
+    /*max-width: 750px;*/
+    margin: auto;
+    background: lightblue;
+}
+
+.max-content-size {
+    padding-top: 80px;
+    max-width: 750px;
+    margin: auto;
+}
+
+#top-heading {
+    background-color: #eeeeee;
+    color: rgba(18,18,18,0.75);
+    position:fixed;
+    top:0;
+    width:100%;
+    z-index:10
+;
+}
+
+.centered-block {
+    display: block;
+    text-align: center;
+    margin-right: auto;
+    margin-left: auto;
+}
