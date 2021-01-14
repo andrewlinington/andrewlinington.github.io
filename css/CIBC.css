@@ -1,14 +1,15 @@
 body {
-    /*max-width: 750px;*/
     margin: auto;
     background: lightblue;
+    font-size: 20px;
+    font-family: "Times New Roman";
 }
 
 .max-content-size {
-    padding-top: 80px;
+    padding-top: 130px;
     max-width: 750px;
     margin: auto;
-    color: #000000
+    color: #000000;
 }
 
 #top-heading {
@@ -17,8 +18,7 @@ body {
     position:fixed;
     top:0;
     width:100%;
-    z-index:10
-;
+    z-index:10;
 }
 
 .centered-block {
