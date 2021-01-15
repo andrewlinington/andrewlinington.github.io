@@ -37,17 +37,6 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
   </component>
   <component name="RunManager">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/andrewlinington.github.io/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
@@ -68,6 +57,7 @@
       <workItem from="1609960536230" duration="8198000" />
       <workItem from="1610216061156" duration="233000" />
       <workItem from="1610416050203" duration="29339000" />
+      <workItem from="1610740509762" duration="4001000" />
     </task>
     <servers />
   </component>
